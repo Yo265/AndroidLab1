@@ -11,6 +11,8 @@ import static org.junit.Assert.*;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
+
+//test CI
 public class MinMaxUnitTest {
     @Test
     public void addition_isCorrect_Min() {
